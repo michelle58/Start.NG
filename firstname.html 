@@ -1,0 +1,111 @@
+<DOCTYPE html>
+<html lang ="eng">
+ <head>
+   <title> MY RESUME </title>
+ </head>
+
+
+<body> 
+  <header>
+   
+     <h1> MICHELLE DIM </h1>
+
+      <p> No.5 Adol-Awam Avenue Mile 50, <br>Abakiliki Ebonyi state </p>
+      <p> 08179910134 </p>
+      <p> michlldim58@gmail.com </p>
+
+    <h2>PERSONAL DATA </h2>
+      <p> <b>Date of Birth</b>: <i>12th July,1995</i> </p>
+       <p> <b>Place of Birth</b>: <i>Ebonyi state</i> </p>
+         <p> <b> Gender </b>: <i> Female </i> </p>
+          <p> <b>Marital Status</b>: <i>Single</i> </p>
+  </header>
+  
+  <hr>
+ 
+   <div>
+     <img src="https://res.cloudinary.com/michelle58/image/upload/v1566563369/20190820_103901_uatyy9.jpg">
+     
+   </div> 
+   
+   <hr>   
+
+<h2> OBJECTIVE </h2>
+
+<p> I want to acquire skills on javascript and python. <br>
+ I would love to incorporate these skills to aid in material selection in Metallurgy if possible.
+ </p>
+ 
+ <h2> EXPERIENCE </h2 >
+ <p> None. Still an undergraduate </p >
+ 
+ <h2> SKILLS </h2>
+ 
+   <ul>
+      <li> Writing</li>
+        <li>Research </li>
+         <li>Team work</li>
+          <li>Active learning</li>
+   </ul>
+   
+<h2> EDUCATION </h2>
+
+  <table>
+    <thead>
+    
+      <tr>
+        <th> Certificate </th>
+        <th> School </th>
+        <th> Region/State </th>
+        <th> Year </th>
+      </tr>
+      
+    </thead>
+    
+     <tbody>
+     
+         <tr>
+           <td> B.Engineering </td>
+           <td> University of Nigeria </td>
+           <td> Nsukka,Enugu </td>
+           <td> <i> 2014-current </i> </td>
+         </tr>
+         <tr>
+           <td> WASSCE </td>
+           <td> Holy Trinity,College</td>
+           <td> Ngbo,Ebonyi </td>
+            <td> <i> 2009-2012 <i> </td>
+         </tr>
+         <tr>
+           <td> Junior WASSCE </td>
+           <td> Annunciation Secondary School</td>
+           <td> Abakaliki,Ebonyi </td>
+            <td> <i> 2006-2009 </i> </td>
+         </tr>
+      </tbody>
+      
+  </table>
+          
+<h2> RESEARCH AND TRAINING </h2> 
+
+<p>  Currently, I'm doing a research on the <br>"Effect Of Heat Treatment on AISI 304 in An Acidic Environment (HCl) For Oil and Gas Applications".
+  I'm on a training with StartNG for coding programme. </p>
+  
+<h2> LANGUAGE </h2>
+  <ol>
+    <li> Engish </li>
+    <li> Igbo </li>
+
+<h2> HOBBIES </h2>
+ <ul>
+   <li> Music </li>
+   <li> Football </li>
+   <li> Reading </li>
+   <li> Travelling</li>
+  </ul>
+            
+
+</body>
+</html>
+    
+    
