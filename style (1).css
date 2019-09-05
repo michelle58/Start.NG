@@ -1,0 +1,174 @@
+body{
+	font: bold 16px sans-serif;
+	line-height: 1.6em;
+	margin:0;
+}
+h1,h2{
+	color:blue;
+}
+
+.image{
+object-fit: cover;
+  object-position: 100% 0;
+width: 50px;
+height: 100px;
+transform: rotate(-90deg);}
+
+
+a:hover{
+	color:blue;
+}
+
+a:active{
+	color:green;
+}
+a: visited{
+	color:red;
+}
+}
+
+.container{
+	width:80%;
+	margin:auto;
+}
+
+.box-1{
+text-align:center;
+	background-color:grey;
+	color:white;
+	border:5px black solid;
+	padding:20px;
+	margin:20px 0;
+}
+.box-2{
+    text-align: left;
+	padding:20px;
+	margin:20px 0;
+	width:400px;}
+
+.box-2 h2{
+text-align: center;
+}
+
+
+.language {
+	border:10px grey solid;
+	padding:10px;
+	border-radius:15px;
+}
+
+}
+
+
+ .skills {
+    border:10px grey solid;
+	padding:10px;
+	border-radius:15px;
+
+}
+.skills ul{
+	list-style:square;
+}
+
+.hobbies {
+	border:10px grey solid;
+	padding:10px;
+	border-radius:15px;
+}
+
+.hobbies ul{
+	list-style:square;
+}
+.hobbies li{
+	padding-bottom:8px;
+	border-bottom:dotted 1px black;
+}
+.education
+ table, th, td{
+border:1px solid black;
+text-align: center;
+border:5px black solid;
+	padding:20px;
+	margin:20px 0;
+
+}
+.details{
+	border:2px groove #c2c2d6;
+	width:35%;
+	color:#fffffffb;
+	padding:30px;
+	margin-left:32%;
+	border-radius:5px;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+.contact {	
+  font-family:arial,verdana;
+  width: 100px;
+  background-color:#3333cc;
+  color:#fffffffb;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius:5px;
+  cursor: pointer;
+  color:#fffffffb;
+}
+.contact {
+	color:#fffffffb;
+}
+input[type=text],  input[type=email],
+input[type=number]{
+  width: 100px;
+  padding: 2px 2px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  width: 200px;
+  background-color:#3333cc;
+  color:#fffffffb;
+  font-size:15px;
+  padding: 20px 5px;
+  margin: 8px 3px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align:center;
+}
+
+input[type=submit]:hover{
+  background-color:#e97600;
+  color:#fffffffb;
+}
+
+h2 {
+	color:blue;
+}
+
+.Contact {
+	font-family: sans-serif;
+	padding: none;
+	border: none;
+	border radius: 2px;
+	
+}
+
+
+a:hover{
+	color:blue;
+}
+
+a:active{
+	color:green;
+}
+a: visited{
+	color:red;
+}
+	
+}
+
+
