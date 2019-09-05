@@ -10,9 +10,7 @@ h1,h2{
 .image{
 object-fit: cover;
   object-position: 100% 0;
-width: 50px;
-height: 100px;
-transform: rotate(-90deg);}
+}
 
 
 a:hover{
