@@ -92,3 +92,83 @@ border:5px black solid;
 	margin:20px 0;
 
 }
+.details{
+	border:2px groove #c2c2d6;
+	width:35%;
+	color:#fffffffb;
+	padding:30px;
+	margin-left:32%;
+	border-radius:5px;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+.contact {	
+  font-family:arial,verdana;
+  width: 100px;
+  background-color:#3333cc;
+  color:#fffffffb;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius:5px;
+  cursor: pointer;
+  color:#fffffffb;
+}
+.contact {
+	color:#fffffffb;
+}
+input[type=text],  input[type=email],
+input[type=number]{
+  width: 100px;
+  padding: 2px 2px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=submit] {
+  width: 200px;
+  background-color:#3333cc;
+  color:#fffffffb;
+  font-size:15px;
+  padding: 20px 5px;
+  margin: 8px 3px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align:center;
+}
+
+input[type=submit]:hover{
+  background-color:#e97600;
+  color:#fffffffb;
+}
+
+h2 {
+	color:blue;
+}
+
+.Contact {
+	font-family: sans-serif;
+	padding: none;
+	border: none;
+	border radius: 2px;
+	
+}
+
+
+a:hover{
+	color:blue;
+}
+
+a:active{
+	color:green;
+}
+a: visited{
+	color:red;
+}
+	
+}
+
+
